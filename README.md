@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Muhammad Abdur Rab Siddiqui
+- **CCID:** 1804733
 
 ## References and Resources
 
